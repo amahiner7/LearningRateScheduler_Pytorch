@@ -2,7 +2,7 @@
 ## 파이토치 Learning rate 스케줄러 및 Custom 스케줄러
 
 ### 1. LambdaLR
-<img src="https://user-images.githubusercontent.com/86712265/140004055-b19e97be-65f9-41fc-b8cf-26060f18e7cb.jpg" width="427" height="320">
+<img src="https://user-images.githubusercontent.com/86712265/140026307-b1471cf9-14cc-41a9-a843-8b2b8c34594e.jpg" width="427" height="320">
 
 ### 2. StepLR
 <img src="https://user-images.githubusercontent.com/86712265/140004737-eb16aaf9-8793-422a-b37b-6aeac361878c.jpg" width="427" height="320">
